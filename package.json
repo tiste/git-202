@@ -1,0 +1,23 @@
+{
+  "name": "git-202",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiste/git-202.git"
+  },
+  "author": "Baptiste Lecocq <baptiste.lecocq@gmail.com> (https://tiste.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tiste/git-202/issues"
+  },
+  "homepage": "https://github.com/tiste/git-202#readme",
+  "dependencies": {
+    "terminal-image": "2.0.0"
+  }
+}
