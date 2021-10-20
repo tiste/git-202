@@ -1,3 +1,4 @@
 export class Coffee {
-  grind = false
+  grind = true
+  path = 'assets/2.png'
 }
